@@ -28,9 +28,9 @@ This project analyzes IPL data from 2008 to 2025 using Power BI. It provides ins
 
 
 ## 📂 Files
-
-* IPL_ANALYSIS.pbix
-* Dataset files (CSV)
+* IPL_ANALYSIS.pbix [https://drive.google.com/file/d/1w1Bd4XnW2Ya-wPzwG6GoAFogfvre5rrD/view?usp=sharing]
+* Dataset files (CSV) [https://drive.google.com/drive/folders/1nJzupkLdczDr-KT3qbn4wTfjXGeJqX-q?usp=sharing]
+ 
 
 ## 👤 Author
 
